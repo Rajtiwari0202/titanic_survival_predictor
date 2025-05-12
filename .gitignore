@@ -1,0 +1,17 @@
+# Ignore data files
+data/raw/*.csv
+data/processed/
+
+# Ignore API keys
+kaggle.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode or PyCharm config folders
+.vscode/
+.idea/
